@@ -79,6 +79,4 @@ Feel free to contribute by:
 2. Creating a new branch for your feature
 3. Submitting a pull request
 
-## License
 
-This project is open source and available under the MIT License.
